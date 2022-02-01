@@ -6,7 +6,7 @@
   <img
   src= "https://user-images.githubusercontent.com/60633000/151446351-7de2fbb1-f2c0-4cee-8f3d-06d19468d25f.png"
   alt="The beautiful MDN logo.">
-  <figcaption><em>Figure 1. Project Objective High-Level View<em></figcaption>
+	<figcaption><em>Figure 1. Project Objective High-Level View</em></figcaption>
 </figure>
 	  
 This project is all about utilizing generative adversarial networks (GANs) to attempt to imitate the works of past renowned artists, specifically Claude Monet. By making use of computer vision, GANs can mimic objects in a very convincing way and for this problem, the goal is to trick the classifier into thinking we have created an actual Monet style painting. This data science problem is important because not everyone has a chance to go to a famous museum and see a famous painting made by an artist hundreds of years ago. Art is important in fostering creativity, curiosity and opening up one’s imagination. Computer vision and GANs will help users experience the stylistic components of art from centuries ago right on their screen and they can tinker with the GANs to create their own. 
