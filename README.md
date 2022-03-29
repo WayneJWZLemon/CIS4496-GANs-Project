@@ -6,3 +6,4 @@ This project adapts ideas from the [I’m Something of a Painter Myself Kaggle C
 ## Documentation List
 * Link to the [Project Charter Document](https://github.com/WayneJWZLemon/CIS4496-GANs-Project/blob/main/Docs/Project_Charter.md)
 * Link to the [Bimonthly Report #1](https://github.com/WayneJWZLemon/CIS4496-GANs-Project/blob/main/Docs/Bimonthly-Report-%231.md)
+* Link to the [Bimonthly Report #2](https://github.com/WayneJWZLemon/CIS4496-GANs-Project/blob/main/Docs/Bimonthly-Report-%232.md)
