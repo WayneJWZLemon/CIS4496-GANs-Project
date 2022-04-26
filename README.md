@@ -4,7 +4,7 @@
 This project adapts ideas from the [I’m Something of a Painter Myself Kaggle Competition](https://www.kaggle.com/c/gan-getting-started/overview) to develop machine learning models that can effectively convert input photos to Monet-style paintings and potentially styles of other artists.
 
 ## Interactive Dashboard Demo 
-**Note**: This is only a beta release
+**Note**: This is a beta release
 
 Heroku: https://salty-bastion-21751.herokuapp.com/ 
 
@@ -19,7 +19,7 @@ Heroku: https://salty-bastion-21751.herokuapp.com/
 
 ## Additional Data Acquisition
 We extracted paintings of artists such as Edgar Degas, Pablo Picasso, Rembrandt Harmenszoon van Rijn, Alfred Sisley, and Vincent van Gogh
-Dutch painter from [WikiArt](https://www.wikiart.org/). After all images are crawled, we used the Pillow package to resize all images to 256 by 256, then ran the resulting image set through a TFRecords creation script found on Kaggle (kaggle.com/code/cdeotte/how-to-create-tfrecords/notebook).
+Dutch painter from [WikiArt](https://www.wikiart.org/). After all images are crawled, we used the Pillow package to resize all images to 256 by 256, then ran the resulting image set through a TFRecords creation script found on Kaggle (https://www.kaggle.com/code/cdeotte/how-to-create-tfrecords/notebook).
 * https://www.kaggle.com/datasets/techiewaynezheng/degastfrecs
 * https://www.kaggle.com/datasets/techiewaynezheng/picassotfrecs
 * https://www.kaggle.com/datasets/techiewaynezheng/rembrandttfrecs
