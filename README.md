@@ -18,8 +18,7 @@ Heroku: https://salty-bastion-21751.herokuapp.com/
 * Link to the [Model Report](https://github.com/WayneJWZLemon/CIS4496-GANs-Project/blob/main/Docs/Model-Report.md)
 
 ## Additional Data Acquisition
-We extracted paintings of artists such as Edgar Degas, Pablo Picasso, Rembrandt Harmenszoon van Rijn, Alfred Sisley, and Vincent van Gogh
-Dutch painter from [WikiArt](https://www.wikiart.org/). After all images are crawled, we used the Pillow package to resize all images to 256 by 256, then ran the resulting image set through a TFRecords creation script found on Kaggle (https://www.kaggle.com/code/cdeotte/how-to-create-tfrecords/notebook).
+We extracted paintings of artists such as Edgar Degas, Pablo Picasso, Rembrandt Harmenszoon van Rijn, Alfred Sisley, and Vincent van Gogh from [WikiArt](https://www.wikiart.org/). After all images are crawled, we used the Pillow package to resize all images to 256 by 256, then ran the resulting image set through a TFRecords creation script found on Kaggle (https://www.kaggle.com/code/cdeotte/how-to-create-tfrecords/notebook).
 * https://www.kaggle.com/datasets/techiewaynezheng/degastfrecs
 * https://www.kaggle.com/datasets/techiewaynezheng/picassotfrecs
 * https://www.kaggle.com/datasets/techiewaynezheng/rembrandttfrecs
